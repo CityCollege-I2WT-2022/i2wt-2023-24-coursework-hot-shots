@@ -1,0 +1,75 @@
+/*LJUPCHO KOSTOSKI*/
+
+body {
+  background-color: darkslategrey;
+}
+.centerTable{
+    display:table;
+    margin-left: auto;
+    margin-right: auto;
+    width=50%;
+    padding:10px;
+}
+.center{
+    display:block;
+    width=50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#demo{
+    width:720px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.footers{
+    height:70px;
+    padding: 20px 10px;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    background-color: burlywood;
+    font-weight: bold;
+    font-style: italic;
+    color:darkslategray;
+    text-align: right;
+}
+.container-fluid{
+    background-color: burlywood;
+    color:black;
+    font-weight:bold;
+
+}
+.dropdown-item{
+    font-weight: bold;
+}
+.dropdown{
+    font-weight:bold;
+    color: black;
+}
+.dropdown-menu{
+    background-color: burlywood;
+    color: black;
+}
+.dropdown-item{
+    color:black;
+}
+footer>a{
+    color:darkslategray;
+}
+button{
+    background-color: darkslategray;
+    color: burlywood;
+    font-weight:500;
+    border:0px;
+}
+#backToTop{
+    float:left;
+    color: darkslategray;
+    background-color: burlywood;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration:underline;
+    
+}
